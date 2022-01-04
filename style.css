@@ -1,0 +1,13 @@
+body{
+  text-align:center;
+}
+.ncyu{
+  position: relative;
+  top: 20px;
+  left: 350px;
+  width: 230px;
+  height: 90px;
+  background: pink;
+  font-size: 80px;
+  color: white;
+}
